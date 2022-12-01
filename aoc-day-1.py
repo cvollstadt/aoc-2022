@@ -1,5 +1,5 @@
 
-with open('/Users/cevk/documents/python_scripts/aoc-day-1.txt') as f:
+with open('aoc-day-1.txt') as f:
     data = f.read()
 
 # list of lists
